@@ -1,2 +1,5 @@
 # devops-platform-capstone
-New POC
+Project purpose
+Toolchain overview
+High-level architecture
+
